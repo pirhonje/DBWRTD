@@ -1,7 +1,8 @@
 PLATFORM
 ===
 
-.. autosummary::
-   :toctree: generated
 
-   vehicle
+.. _wheel installation:
+
+Installation
+------------
