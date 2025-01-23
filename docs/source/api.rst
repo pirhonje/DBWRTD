@@ -1,7 +1,7 @@
-API
+PLATFORM
 ===
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   vehicle
