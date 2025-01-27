@@ -1,7 +1,7 @@
 Welcome to Drive-By-Wire documentation!
 ===================================
 
-Drive-By-Wire system for old cars.
+Drive-By-Wire system for old cars. Now we have the SAAB
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
