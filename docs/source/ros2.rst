@@ -13,4 +13,4 @@ Nodes
    machine_vision
    auto_control
    shutdown
-   micro_rOS_agent
+   micro_ros_agent
