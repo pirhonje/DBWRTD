@@ -6,7 +6,7 @@ Drive-By-Wire system for old cars. Now we have the SAAB
 .. Check out the :doc:`usage` section for further information, including
 .. how to :ref:`installation` the project.
 
-.. image:: image-20250317-101131-02f519da.jpeg
+.. image:: images/image-20250317-101131-02f519da.jpeg
   :width: 796
 .. note::
 
