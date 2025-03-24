@@ -14,5 +14,5 @@ Circuit diagram
 Actual electric connections
 ===========================
 
-.. image:: images/IMG20250306161639.png
+.. image:: images/IMG20250306161639.jpg
     :width: 1000
