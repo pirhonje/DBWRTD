@@ -10,7 +10,7 @@ Nodes
 
    steering
    pedal
-   machine vision
-   auto control
+   machine_vision
+   auto_control
    shutdown
    micro_rOS_agent
