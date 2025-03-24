@@ -38,6 +38,7 @@ Critical component list
 * Electric linear actuator
 * H-Bridge
 * PS4 controller
+* Camera Logitec c270
 
 Software
 =========
