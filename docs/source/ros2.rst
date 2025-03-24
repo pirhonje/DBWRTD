@@ -6,7 +6,7 @@ ROS2
 ROS2 nodes and relations:
 ===============
 
-.. image:: images/node_diagram.png
+.. image:: images/node_diagram1.png
     :width: 1000
 
 
