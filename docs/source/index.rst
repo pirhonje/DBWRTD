@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
   :alt: The Henry vehicle at the lab.
 .. note::
 
-   This project is under active development.
+   Its a test
 
 Contents
 --------
