@@ -18,9 +18,9 @@ Nodes
 
 .. toctree::
 
-   steering
-   pedal
-   machine_vision
-   auto_control
-   shutdown
-   micro_ros_agent
+   ros2_nodes/steering
+   ros2_nodes/pedal
+   ros2_nodes/machine_vision
+   ros2_nodes/auto_control
+   ros2_nodes/shutdown
+   ros2_nodes/micro_ros_agent
