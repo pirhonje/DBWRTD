@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
   :alt: The Henry vehicle at the lab.
 .. note::
 
-   Its a test
+   SAAB is ready for action!
 
 Contents
 --------
