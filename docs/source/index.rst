@@ -29,8 +29,15 @@ Vehicle
 - Saab 900 I 1989
   - 2.0 Gasoline, 129 kW, Automatic
 
-Component list
+Critical component list
 ============
+
+* Nvidia Jetson Orion Nano
+* Esp32 Boot
+* Wiper engine
+* Electric linear actuator
+* H-Bridge
+* PS4 controller
 
 Software
 =========
