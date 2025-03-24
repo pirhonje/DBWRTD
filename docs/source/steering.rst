@@ -6,12 +6,13 @@ Steering node
 Usage
 =====
 
-Steering node converts controller commands of the Joy node to steering commands to ESP32.
+Steering node converts controller commands of the Joy node to steering commands of ESP32.
 
-To launch only the Steering node use following command:
+To launch only the Steering node use following terminal command:
 
 .. code-block:: bash
-    ros2 run my_saab steering
+    
+   ros2 run my_saab steering
 
 Published topics
 ===============
