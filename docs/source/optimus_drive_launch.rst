@@ -72,6 +72,8 @@ Do not connect the controller yet!
 Wait 90 seconds and then connect the controller.
 Now the Optimus drive is operational.
 
+Always shutdown the Jetson Orion Nano with the controller! Never cut the power off from Jetson Orion Nano while its running!
+
 
 
 
