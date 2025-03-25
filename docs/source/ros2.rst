@@ -24,3 +24,11 @@ Nodes
    ros2_nodes/auto_control
    ros2_nodes/shutdown
    ros2_nodes/micro_ros_agent
+
+
+
+Launching the all ROS2 nodes at ones use following line. (except auto control node)
+
+.. code-block:: bash
+    
+   ros2 launch my_saab launch.py

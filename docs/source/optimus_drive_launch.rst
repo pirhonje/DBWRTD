@@ -62,3 +62,16 @@ Buttons must be pressed one at a time or nothing happens!
       - Pressing Triangle sets this point as the new center of the steering wheel
 
 
+Launchin the Optimus drive
+=========================
+
+
+The car must be started before starting the Jetson Orion Nano!
+Once the car is started, turn on the power to the actuator case using its switch. 
+Do not connect the controller yet!
+Wait 90 seconds and then connect the controller.
+Now the Optimus drive is operational.
+
+
+
+
