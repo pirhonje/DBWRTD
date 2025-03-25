@@ -6,7 +6,7 @@ Optimus drive launch
 Control Scheme
 ===============
 
-.. image:: images/ps4_controller_layout.png
+.. image:: images/ps4_controller_layout.PNG
     :width: 1000
 
 
