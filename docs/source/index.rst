@@ -37,6 +37,7 @@ Critical component list
 * Wiper engine
 * Electric linear actuator
 * H-Bridge
+* Rotary encoder
 * PS4 controller
 * Camera Logitec c270
 
