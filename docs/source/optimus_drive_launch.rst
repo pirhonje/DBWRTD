@@ -20,3 +20,10 @@ Control Scheme
     * - Shutdown
       - Share + Options
       - Press simultaneously until the Jetson Orion Nano shutdown
+
+    * - Action
+      - Button
+      - Notes
+    * - Brake
+      - L2
+      - The amount of trigger pulled corresponds to the brake pushed.
