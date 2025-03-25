@@ -11,7 +11,7 @@ Circuit diagram
     :width: 1000
 
 
-Actual electric connections
+Physical connections
 ===========================
 
 .. image:: images/IMG20250306161639.jpg
