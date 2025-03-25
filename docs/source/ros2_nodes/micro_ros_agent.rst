@@ -21,7 +21,7 @@ Troubleshooting
 In case of problems, restart the node.
 
 
-installation
+Installation
 ============
 
 To install needed ROS2 nodes, follow instructions to install micro_ROS_agent package properly.
