@@ -32,7 +32,3 @@ Troubleshooting
 In case of problems, restart the node.
 
 
-installation
-============
-
-To install needed ROS2 nodes, follow instructions as

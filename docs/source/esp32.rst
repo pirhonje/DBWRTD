@@ -17,7 +17,7 @@ Troubleshooting
 In case of problems, remove ESP32 from Jetson Orion Nano and attach it again.
 
 
-installation
+Installation
 ============
 
 To install needed ESP32 micro_ros follow following steps:
