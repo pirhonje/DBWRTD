@@ -32,3 +32,6 @@ To install needed ESP32 micro_ros follow following steps:
 
 Now you have micro_ros library on your esp32
 More detailed instustions on following youtube video: https://www.youtube.com/watch?v=qtVFsgTG3AA
+
+
+ESP32 codes installation instruction: https://github.com/pelottavapontso/Optimus-Drive

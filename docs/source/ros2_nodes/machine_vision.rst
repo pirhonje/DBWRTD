@@ -32,5 +32,8 @@ Troubleshooting
 In case of problems, restart the node.
 
 
+Installation
+============
 
+Installation instruction: https://github.com/pelottavapontso/Optimus-Drive
 
