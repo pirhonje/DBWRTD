@@ -24,7 +24,7 @@ Buttons must be pressed one at a time or nothing happens!
 
     * - Shutdown
       - Share + Options
-      - Press simultaneously until the Jetson Orion Nano shutdown
+      - Press simultaneously until the Jetson Orion Nano |shutdown
 
     * - Brake
       - L2
