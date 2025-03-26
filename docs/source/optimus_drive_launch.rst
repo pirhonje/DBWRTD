@@ -24,31 +24,31 @@ Buttons must be pressed one at a time or nothing happens!
 
     * - Shutdown
       - Share + Options
-      - Press simultaneously until the Jetson Orion Nano \n shutdown
+      - Press simultaneously until the Jetson Orion Nano \nshutdown
 
     * - Brake
       - L2
-      - The amount of trigger pulled corresponds to the \n brake pushed
+      - The amount of trigger pulled corresponds to the \nbrake pushed
 
     * - Brake trim
       - L1
-      - Allows adjustment of the starting position of the \n brake actuator
+      - Allows adjustment of the starting position of the \nbrake actuator
 
     * - Gas
       - R2
-      - The amount of trigger pulled corresponds to the \n gas pushed
+      - The amount of trigger pulled corresponds to the \ngas pushed
 
     * - Gas trim
       - R1
-      - Allows adjustment of the starting position of the \n gas actuator
+      - Allows adjustment of the starting position of the \ngas actuator
 
     * - Pedal trim reset
       - L1 + R1
-      - Press simultaneously until the both linear \n actuatorshave returned to zero position
+      - Press simultaneously until the both linear \nactuatorshave returned to zero position
 
     * - Electrical handbrake
       - O
-      - Press the brake pedal until the electric parking \n brake is released. When the electric parking brake is activated, the other buttons do nothing.
+      - Press the brake pedal until the electric parking \nbrake is released. When the electric parking brake is activated, the other buttons do nothing.
 
     * - Release electric handbrake
       - X
@@ -56,11 +56,11 @@ Buttons must be pressed one at a time or nothing happens!
 
     * - Steering
       - L Joystick
-      - Turning the joystick to the left moves the steering \n wheel to the left and turning the joystick to the rigth moves the steering wheel to rigth
+      - Turning the joystick to the left moves the steering \nwheel to the left and turning the joystick to the rigth moves the steering wheel to rigth
 
     * - Steering trim
       - Triangle
-      - Pressing Triangle sets this point as the new center \n  of the steering wheel
+      - Pressing Triangle sets this point as the new center \nof the steering wheel
 
 
 Launchin the Optimus drive
