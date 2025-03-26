@@ -14,8 +14,9 @@ Buttons must be pressed one at a time or nothing happens!
 
 
 .. list-table:: 
-    :widths: 50 50 50
+    :widths: 30 40 50
     :header-rows: 1
+    :class: longtable
 
     * - Action
       - Button
