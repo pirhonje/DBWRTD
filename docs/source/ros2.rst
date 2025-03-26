@@ -27,7 +27,7 @@ Nodes
 
 
 
-Launching the all ROS2 nodes at ones use following line. (except auto control node)
+Launching the all ROS2 nodes at ones use following line. (except auto control node. For safety reasons it has to be launch separately.)
 
 .. code-block:: bash
     
